@@ -7,8 +7,8 @@ html{
 }
 
 .wrapper {
-    width: 602px;
-    height: 602px;
+  width: 37.6em;
+  height: 37.6em;
     background-color: black;
     display: grid;
     grid-gap: 30px 20px;
